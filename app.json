@@ -14,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "updates": {
-      "fallbackToCacheTimeout": 0
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/e6f1afbb-ab07-47eb-9339-3ed2af5bbe6a"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -38,6 +39,7 @@
         "projectId": "e6f1afbb-ab07-47eb-9339-3ed2af5bbe6a"
       }
     },
-    "owner": "michaelachrisco"
+    "owner": "michaelachrisco",
+    "runtimeVersion": "1.0.0"
   }
 }
